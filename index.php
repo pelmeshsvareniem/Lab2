@@ -105,6 +105,19 @@ $versiune = "2.0";
                     </div>
                 </div>
 
+                <div class="slide">
+                    <img src="images/library5.jpg" alt="Organizarea documentelor">
+
+                    <div class="slide-content">
+                        <span>05 / ORGANIZEAZĂ</span>
+                        <h3>Păstrează ce este important</h3>
+                        <p>
+                            Creează mape pentru cuvintele și secțiunile salvate.
+                            Poți adăuga sau elimina rapid fragmentele de care ai nevoie.
+                        </p>
+                    </div>
+                </div>
+
 
             </div>
 

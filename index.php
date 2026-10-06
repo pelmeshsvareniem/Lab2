@@ -89,6 +89,21 @@ $versiune = "2.0";
                     </div>
                 </div>
 
+                <div class="slide">
+                    <img src="images/library4.jpg" alt="Citirea unui document">
+
+                    <div class="slide-content">
+                        <span>04 / CITEȘTE</span>
+                        <h3>Personalizează experiența de citire</h3>
+                        <p>
+                            Deschide documentul în e-reader și adaptează
+                            dimensiunea fontului, culoarea textului și fundalul
+                            după preferințele tale.
+                        </p>
+                    </div>
+                </div>
+
+
             </div>
 
             <button class="carousel-button previous" id="prev" aria-label="Imaginea precedentă">

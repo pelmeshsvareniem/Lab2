@@ -7,4 +7,5 @@
         <span>Biblioteca online</span>
         <strong>Versiunea <?= $versiune ?></strong>
     </div>
+    <button>Aici cauti ceva</button>
 </footer>

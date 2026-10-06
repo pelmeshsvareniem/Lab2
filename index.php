@@ -19,6 +19,8 @@ $versiune = "2.0";
 
 <?php require "header.php"; ?>
 
+<button> For dark mode. Trust me </button>
+
 <main>
     <section class="hero">
         <div class="hero-content">

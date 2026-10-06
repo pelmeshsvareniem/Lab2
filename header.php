@@ -30,6 +30,9 @@
         <a href="#ghid">Cum funcționează</a>
         <a href="#functii">Funcții principale</a>
         <a href="#flux">Fluxul aplicației</a>
+        <a href="#ghid">Cum funcționează</a>
+        <a href="#ghid">Cum funcționează</a>
+        <a href="#ghid">Cum funcționează</a>
     </nav>
 
     <div class="menu-footer">

@@ -166,6 +166,14 @@ $versiune = "2.0";
                 </p>
             </article>
 
+            <article class="feature-card">
+                <span class="feature-number">04</span>
+                <h3>Biblioteca personală</h3>
+                <p>
+                    Documentele încărcate sunt păstrate într-un spațiu
+                    personal, accesibil din contul utilizatorului.
+                </p>
+            </article>
         </div>
     </section>
 

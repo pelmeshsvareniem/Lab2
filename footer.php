@@ -4,6 +4,9 @@
         <p>Spațiu pentru documentele tale, lectura și informația importantă.</p>
         
         <p>Filtrul va fi adaugat in viitor</p>
+        <p>Filtrul va fi adaugat in viitor</p>
+        <p>Filtrul va fi adaugat in viitor</p>
+        <p>Filtrul va fi adaugat in viitor</p>
 
     </div>
     <div class="footer-info">

@@ -35,7 +35,7 @@ function showSlide(index) {
 }
 
 nextButton.addEventListener("click", function () {
-    currentSlide++;
+    currentSlide--;
     showSlide(currentSlide);
 });
 

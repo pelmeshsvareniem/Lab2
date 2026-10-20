@@ -1,0 +1,18 @@
+# Configurări locale
+config.local.txt
+.env
+
+# Fișiere log
+*.log
+*.log.txt
+
+# Fișiere temporare
+temp/
+*.tmp
+
+# Fișiere generate
+node_modules/
+dist/
+
+# Setări editor
+.vscode/

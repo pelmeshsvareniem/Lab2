@@ -33,6 +33,9 @@
         <a href="#ghid">Cum funcționează</a>
         <a href="#ghid">Cum funcționează</a>
         <a href="#ghid">Cum funcționează</a>
+        <a href="index.php">Ghid</a>
+        <a href="index.php">Ghid</a>
+        <a href="index.php">Ghid</a>
     </nav>
 
     <div class="menu-footer">

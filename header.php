@@ -26,7 +26,7 @@
     </div>
 
     <nav>
-        <a href="index.php">Ghid</a>
+        <a href="index.php">Hello</a>
         <a href="#ghid">Cum funcționează</a>
         <a href="#functii">Funcții principale</a>
         <a href="#flux">Fluxul aplicației</a>
